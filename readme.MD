@@ -10,17 +10,20 @@
     	- Android
     	- React Native Vector Icons
 
-
 # Installing
 
 > Clone the project using the link [Shopping
 > App](https://github.com/cliffgor/Shopping-App.git)
 
-    	`# Install dependencies
+    	`
+    	# Install dependencies
     	  npm install
-    	cd ios && pod install &&  cd .. # Run on iOS react-native run-ios
+    	cd ios && pod install &&  cd ..
 
-    	# Run on Android react-native run-android`
+    	# Run on iOS react-native run-ios
+
+    	# Run on Android react-native run-android
+    	`
 
 # Author
 
